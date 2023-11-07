@@ -1,5 +1,4 @@
-## Portfolio Construction and Optimization
-#Data Science Capstone
+# Portfolio Construction and Optimization
 Equity Portfolio Construction, Optimization, and Performance Analysis using Machine Learning
 
 
